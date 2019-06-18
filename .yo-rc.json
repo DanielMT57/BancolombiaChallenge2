@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.co.ceiba.challenges"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "monolith",
+    "baseName": "Application",
+    "packageName": "com.co.ceiba.challenges",
+    "packageFolder": "com/co/ceiba/challenges",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YTc5ZDY2ZDFkNWU5NjdjMjZkNmZiMzg0YWQ5YjYxNjRlYzc4NTc5MWRiMWQ4YzI3MTVhOWU3MDJhOTc3YWZjZmI3ZDM3Y2RlYzQzMDVmYTA1ZWEyMDM1OWRhMDdmZjk2NjJkNDZiMTE0NDllNDg3ZDQ5Njk4YTdhMmMyNjFiOTk=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "slate",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
